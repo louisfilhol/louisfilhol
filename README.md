@@ -22,6 +22,7 @@
 
 <h3 align="left">Frameworks :</h3>
   <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://laravel.com/img/logomark.min.svg" alt="laravel" width="40" height="40"/> </a>
+  <a href="https://livewire.laravel.com/docs/quickstart" target="_blank" rel="noreferrer"> <img src="https://i.ibb.co/7R2BSGL/image-removebg-preview.png" alt="laravel" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
 
