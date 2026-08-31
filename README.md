@@ -1,4 +1,4 @@
-# Louis Filhol — Junior Full-Stack Developer in Dortmund
+# Louis Filhol — Junior Full-Stack Developer
 
 I build practical web products from backend architecture to polished user interfaces.
 My main stack is **Laravel**, **React / Next.js**, **TypeScript**, and **Python / FastAPI**, with experience in SQL databases, Docker, Linux, APIs, and CI workflows.
